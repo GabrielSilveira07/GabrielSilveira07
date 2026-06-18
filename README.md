@@ -1,16 +1,38 @@
-## Hi there 👋
+# Gabriel Silveira
 
-<!--
-**GabrielSilveira07/GabrielSilveira07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building digital products through code, AI and design.
 
-Here are some ideas to get you started:
+## Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 ADS @ Faculdade Senac Ponta Grossa
+- 🧠 Learning Full Stack Development, AI and software architecture
+- ⚙️ Building systems, automations and digital products
+- 📦 Developing StarterBox
+
+## Interests
+
+- Artificial Intelligence
+- Full Stack Development
+- UI/UX Design
+- Automation
+- Digital Products
+
+## Technologies
+
+### Languages
+
+- Python
+- JavaScript
+- Java
+
+### Frontend
+
+- React
+- Vue
+
+### Tools
+
+- Git
+- GitHub
+- Claude
+- n8n

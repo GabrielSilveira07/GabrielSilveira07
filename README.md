@@ -17,22 +17,6 @@ Building digital products through code, AI and design.
 - Automation
 - Digital Products
 
-## Technologies
+## Stack
 
-### Languages
-
-- Python
-- JavaScript
-- Java
-
-### Frontend
-
-- React
-- Vue
-
-### Tools
-
-- Git
-- GitHub
-- Claude
-- n8n
+Python • JavaScript • TypeScript • React • Vue • n8n • Claude

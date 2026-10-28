@@ -4,19 +4,19 @@ Building digital products through code, AI and design.
 
 ## Currently
 
-- 🎓 ADS @ Faculdade Senac Ponta Grossa
+- 🎓 ADS @ Faculdade Senac Ponta Grossa (2027)
+- 💼 Automation & AI integration @ Concremat × Copel
 - 🧠 Learning Full Stack Development, AI and software architecture
-- ⚙️ Building systems, automations and digital products
-- 📦 Developing StarterBox
+- 📦 Developing Tramia
 
 ## Interests
 
 - Artificial Intelligence
 - Full Stack Development
-- UI/UX Design
 - Automation
-- Digital Products
+- Product & UI/UX Design
+- Self-hosting
 
 ## Stack
 
-Python • JavaScript • TypeScript • React • Vue • n8n • Claude
+Python • n8n • Claude
